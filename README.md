@@ -1,7 +1,7 @@
 ## C Gtk+ Image Viewer
 A simple and lightweight image viewer for linux. It supports multiple image formats. This project's goals is to shine light into some Gtk+ image functions.
 
-##Prerequisites
+## Prerequisites
 * git
 * gtk3-dev
 * pkg-config
